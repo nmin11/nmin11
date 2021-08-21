@@ -28,6 +28,6 @@
 
 ---
 
-<img align="left" width="33%" height="120px" alt="Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
+<img align="left" width="40%" height="135px" alt="Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
 
-<img align="left" width="33%" height="120px" alt="Min's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmin11&layout=compact"/>
+<img align="left" width="40%" height="135px" alt="Min's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmin11&layout=compact"/>
