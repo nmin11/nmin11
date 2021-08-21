@@ -27,4 +27,4 @@
 </br>
 </br>
 
-[![Loko's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Loko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmin11)](https://github-readme-stats.vercel.app/api?username=nmin11)
