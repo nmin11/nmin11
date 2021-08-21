@@ -30,10 +30,4 @@
 ---
 
 <img align="left" alt="Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
-
-</br>
-</br>
-
----
-
 <img align="left" alt="Min's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmin11&layout=compact"/>
