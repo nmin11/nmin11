@@ -18,10 +18,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/75058239/130307243-ed7157dc-d31b-498b-8d0e-7ba737071eed.jpg" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/75058239/130308850-689243dc-6aaf-461f-96a9-91bb7e864a75.png" />
 <img align="left" alt="Spring" width="26px" src="https://user-images.githubusercontent.com/75058239/130307244-f6ed206a-523e-47b2-b713-2eb8d24507b1.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
