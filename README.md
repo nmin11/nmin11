@@ -4,7 +4,7 @@
 
 ## I'm an aspiring developer!
 
-- 🏫 I'm currently learning at [Code States](https://www.codestates.com/)
+- 🏫 I recently completed Full IM 32 course of boot camp [Code States](https://www.codestates.com/)
 - 🌱 I’m currently learning Spring, Algorithm & Data Structure, and React
 - ⚽️ 2021 Goal : Starting my first career as backend developer
 - 👯 I'm looking for colleagues to join the study group
