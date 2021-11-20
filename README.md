@@ -4,7 +4,7 @@
 
 ## I'm an aspiring developer!
 
-- 🏫 I recently completed a Full IM32 course at [Code States](https://www.codestates.com/)
+- 🏫 I recently completed a Full IM 32 course at [Code States](https://www.codestates.com/)
 - 🌱 I’m currently learning Spring, Algorithm & Data Structure, and WebSocket
 - ⚽️ 2021 Goal : Starting my first career as backend developer
 - 👯 I'm looking for colleagues to join the study group
