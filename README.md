@@ -5,7 +5,7 @@
 ## I'm an aspiring developer!
 
 - 🏫 I recently completed a SEB(Software Engineering Bootcamp) Full Immersive 32th course at [Code States](https://www.codestates.com/)
-- 🌱 I’m currently learning Spring, Algorithm & Data Structure, and WebSocket
+- 🌱 I’m currently learning Java, Spring, Algorithm & Data Structure
 - ⚽️ 2021 Goal : Starting my first career as backend developer
 - 👯 I'm looking for colleagues to join the study group
 - 📫 How to reach me : nmin1124@gmail.com
