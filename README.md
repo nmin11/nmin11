@@ -9,7 +9,7 @@
 - ⚽️ 2021 Goal : Starting my first career as backend developer
 - 👯 I'm looking for colleagues to join the study group
 - 📫 How to reach me : nmin1124@gmail.com
-- ⚡ Fun fact : I love to read book and play computer game
+- ⚡ Fun fact : I am deeply interested in OOP, TDD, and Clean Code
 
 ### Languages and Tools:
 
