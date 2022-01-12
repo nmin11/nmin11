@@ -6,7 +6,7 @@
 
 - 🏫 I recently completed a SEB(Software Engineering Bootcamp) Full Immersive 32th course at [Code States](https://www.codestates.com/)
 - 🌱 I’m currently learning Java, Spring Framework, JPA, and Algorithm & Data Structure
-- ⚽️ 2022 Goal : Starting my first career as backend developer
+- ⚽️ 2022 Goal : Become a reliable backend developer
 - 👯 I'm looking for colleagues to join the study group
 - 📫 How to reach me : nmin1124@gmail.com
 - ⚡ Fun fact : I am deeply interested in OOP, TDD, and Clean Code
