@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Min. I using the nickname [Loko](https://loko1124.tistory.com/)
 
-## I'm an aspiring developer!
+## I'm a Back-end Developer!
 
 - 🏫 I recently completed a SEB(Software Engineering Bootcamp) Full Immersive 32th course at [Code States](https://www.codestates.com/)
 - 🌱 I’m currently learning Java, Spring Framework, JPA, and Algorithm & Data Structure
