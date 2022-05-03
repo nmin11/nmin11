@@ -9,6 +9,8 @@
 - ⚽️ 2022 Goal : Getting a job as a back-end developer, Creating my own project
 - 👯 I'm looking for colleagues to join the study group
 
+</br>
+
 ## Skills
 
 ### Back-end
