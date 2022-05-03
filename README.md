@@ -4,12 +4,10 @@
 
 ## I'm a Back-end Developer!
 
-- 🏫 I recently completed a SEB(Software Engineering Bootcamp) Full Immersive 32th course at [Code States](https://www.codestates.com/)
-- 🌱 I’m currently learning Java, Spring Framework, JPA, and Algorithm & Data Structure
-- ⚽️ 2022 Goal : Become a Beck-end Developer
+- 🔥 I recently experienced a two-month back-end internship and am trying to get a job again.
+- 🌱 I will learn the container infrastructure, learn next.js, and make a project again.
+- ⚽️ 2022 Goal : Getting a job as a back-end developer, Creating my own project
 - 👯 I'm looking for colleagues to join the study group
-- 📫 How to reach me : nmin1124@gmail.com
-- ⚡ Fun fact : I am deeply interested in OOP, TDD, and Clean Code
 
 ## Skills
 
