@@ -38,7 +38,7 @@
 
 ## My Video
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/eotTYs81-gs" title="Spring, WebSocket과 함께 채팅 구현하기" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Spring, WebSocket과 함께 채팅 구현하기](http://img.youtube.com/vi/eotTYs81-gs/0.jpg)](https://youtu.be/eotTYs81-gs)
 
 </br>
 
