@@ -38,7 +38,7 @@
 
 ## My Video
 
-[![Spring, WebSocket과 함께 채팅 구현하기](http://img.youtube.com/vi/eotTYs81-gs/0.jpg)](https://youtu.be/eotTYs81-gs)
+[![Spring, WebSocket과 함께 채팅 구현하기](http://img.youtube.com/vi/eotTYs81-gs/0.jpg)](https://youtu.be/eotTYs81-gs){:target="_blank"}
 
 </br>
 
