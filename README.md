@@ -36,6 +36,12 @@
 
 </br>
 
+## My Video
+
+[![Spring, WebSocket과 함께 채팅 구현하기](http://img.youtube.com/vi/eotTYs81-gs/0.jpg)](https://youtu.be/eotTYs81-gs)
+
+</br>
+
 ---
 
 <img align="left" width="40%" height="135px" alt="Min's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
