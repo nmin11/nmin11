@@ -5,7 +5,7 @@
 ## I'm a Back-end Developer!
 
 - 🔥 I recently experienced a two-month back-end internship and am trying to get a job again.
-- 🧩 I will learn algorithm & data structure.
+- 🧩 I'm learning algorithm & data structure.
 - ⚽️ 2022 Goal : Getting a job as a back-end developer.
 - 👯 I'm looking for colleagues to join the study group.
 
