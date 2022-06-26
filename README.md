@@ -5,9 +5,9 @@
 ## I'm a Back-end Developer!
 
 - 🔥 I recently experienced a two-month back-end internship and am trying to get a job again.
-- 🧩 I will learn container infrastructure, learn next.js, and make a project again.
-- ⚽️ 2022 Goal : Getting a job as a back-end developer, Creating my own project
-- 👯 I'm looking for colleagues to join the study group
+- 🧩 I will learn algorithm & data structure.
+- ⚽️ 2022 Goal : Getting a job as a back-end developer.
+- 👯 I'm looking for colleagues to join the study group.
 
 </br>
 
