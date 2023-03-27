@@ -35,11 +35,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-</br>
-
-## My Video
-
-[![Spring, WebSocket과 함께 채팅 구현하기](http://img.youtube.com/vi/eotTYs81-gs/0.jpg)](https://youtu.be/eotTYs81-gs)
 
 </br>
 
