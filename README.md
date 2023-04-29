@@ -35,6 +35,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
+## Certificates
+
+<a href="https://www.credly.com/badges/72830489-8acf-4a19-9698-a9554be23337/public_url">
+  <img src="https://user-images.githubusercontent.com/75058239/235272314-11c6120d-a986-4b7e-ba8f-38533948d3e0.png" width="150px" alt="aws-certified-developer-associate">
+</a>
 
 </br>
 
