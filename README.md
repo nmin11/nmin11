@@ -5,7 +5,7 @@
 ## I'm a Back-end Developer!
 
 - 🔥 I'm planning to start a new toy project.
-- 🧩 I've recently been working on a project using the go language to integrate data with SFDC and SAP.
+- 🧩 I've recently been working on a project using the Go lang to integrate data with SFDC and SAP.
 - ⚽️ Goal for the first half of 2023 : Finish the toy project
 - 👯 I'm looking for colleagues to join the study group.
 
