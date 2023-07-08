@@ -9,8 +9,6 @@
 - ⚽️ Goal for the first half of 2023 : Finish the toy project
 - 👯 I'm looking for colleagues to join the study group.
 
-</br>
-
 ## Skills
 
 ### Language
