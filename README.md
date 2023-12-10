@@ -4,9 +4,9 @@
 
 ## I'm a Back-end Developer!
 
-- 🔥 I'm planning to start a new toy project.
-- 🧩 I've recently been working on a project using the Go lang to integrate data with SFDC and SAP.
-- ⚽️ Goal for the first half of 2023 : Finish the toy project
+- 🔥 I'm building a learning roadmap for the next year.
+- 🧩 I recently created an in-house authentication system.
+- ⚽️ Goal for the 2024 : Move to another company
 - 👯 I'm looking for colleagues to join the study group.
 
 ## Skills
