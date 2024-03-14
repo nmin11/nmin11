@@ -1,13 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnmin11%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there, I'm Min. I using the nickname [Loko](https://loko1124.tistory.com/)
+### 안녕하세요! 백엔드 개발자 남궁민입니다 😁
 
-## I'm a Back-end Developer!
-
-- 🔥 I'm building a learning roadmap for the next year.
-- 🧩 I recently created an in-house authentication system.
-- ⚽️ Goal for the 2024 : Move to another company
-- 👯 I'm looking for colleagues to join the study group.
+- 🔥 동료와 함께 성장하는 주니어 개발자가 되기 위해 노력하고 있어요!
+- 🧩 1분기에는 『자바 최적화』 스터디를 하고 있고, 2분기에는 사이드 프로젝트에 집중하려고 해요
+- ⚽️ 2024년 목표: 사이드 프로젝트 완성! 🤩
+- 👯 스터디, 모각코, 팀 프로젝트, 글쓰기 모임에 참여하고 싶어요
 
 ## Skills
 
@@ -44,5 +42,3 @@
 ---
 
 <img align="left" width="40%" height="135px" alt="Min's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
-
-<img align="left" width="40%" height="135px" alt="Min's Language Card" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmin11&layout=compact"/>
