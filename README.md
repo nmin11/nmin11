@@ -1,6 +1,6 @@
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnmin11%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+<a href="https://hits.sh/github.com/nmin11/">
+  <img alt="Hits" src="https://hits.sh/github.com/nmin11.svg?view=today-total&style=plastic"/>
+</a>
 
 ### 안녕하세요! 백엔드 개발자 남궁민입니다 😁
 
