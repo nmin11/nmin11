@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://github.com/user-attachments/assets/4805058a-6475-489a-a088-d0e9676bc24f" width="165" />
+  <img src="https://github.com/user-attachments/assets/32251355-b90d-40d1-bab7-54ec836e2d15" width="165px" />
 </a>
 
 </br>
