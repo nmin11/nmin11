@@ -40,9 +40,11 @@
   <img src="https://user-images.githubusercontent.com/75058239/235272314-11c6120d-a986-4b7e-ba8f-38533948d3e0.png" width="150px" alt="aws-certified-developer-associate">
 </a>
 
+<!--
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://github.com/user-attachments/assets/32251355-b90d-40d1-bab7-54ec836e2d15" width="165px" />
 </a>
+-->
 
 </br>
 
