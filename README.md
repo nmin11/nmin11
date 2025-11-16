@@ -52,4 +52,4 @@
 
 <img alt="Min's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmin11&show_icons=true&hide_border=true&theme=cobalt"/>
 
-<img alt="Min's LeetCode Stats" src="https://leetcard.jacoblin.cool/nmin11?theme=unicorn&font=Noto%20Sans%20Ogham&ext=activity">
+<img alt="Min's LeetCode Stats" src="https://leetcard.jacoblin.cool/nmin11?theme=unicorn&font=Noto%20Sans%20Ogham">
